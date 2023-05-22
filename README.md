@@ -1,6 +1,6 @@
 # Docker Teamcity Agent
 
-Build and test php8.1 Apps
+Build and test php8.2 Apps
 
 ### Build from dockerfile
 ```
